@@ -48,5 +48,5 @@ To complete this analysis, I executed the following workflow:
 ---
 
 ## 👥 Individual Contribution
-* **Project Type:** [Individual Project / Collaborative Team Project]
+* **Project Type:** Individual Project
 * **My Role:** [Explain what you did. For example: "I independently conducted the entire data-cleaning pipeline, executed the exploratory data analysis, and designed all visual charts using Seaborn."]
