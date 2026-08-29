@@ -49,4 +49,8 @@ To complete this analysis, I executed the following workflow:
 
 ## 👥 Individual Contribution
 * **Project Type:** Individual Project
-* **My Role:** [Explain what you did. For example: "I independently conducted the entire data-cleaning pipeline, executed the exploratory data analysis, and designed all visual charts using Seaborn."]
+* **My Role:** I designed and executed this project entirely on my own. I owned the end-to-end workflow, which included:
+  * Cleaning and preparing the raw customer service dataset using Python.
+  * Performing exploratory data analysis (EDA) to find operational bottlenecks.
+  * Building custom data visualizations using Seaborn and Matplotlib.
+  * Documenting the findings and drafting data-driven recommendations.
