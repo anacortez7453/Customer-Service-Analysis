@@ -40,7 +40,7 @@ To complete this analysis, I executed the following workflow:
 ## 🖼️ Project Evidence & Visualizations
 * **Jupyter Notebook:** [Click here to view my analysis notebook](./customer_service_rag_assignment.ipynb) 
 * **Visualizations:** 
-  ![Resolution Time Trends](Screenshot_2026-07-28_15-28-52.png)
+  ![Resolution Time Trends](Customer_Service_Chat.png)
   
 
 ---
