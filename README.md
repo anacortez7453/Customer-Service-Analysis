@@ -42,7 +42,8 @@ To complete this analysis, I executed the following workflow:
 *(Add evidence of your work here so employers can see your results!)*
 * **Jupyter Notebook:** [Click here to view my analysis notebook](./customer_service_rag_assignment.ipynb) 
 * **Visualizations:** 
-  *(If you have saved charts like PNGs in your repository, you can display them here using this format: `![Resolution Time Trends](Screenshot_2026-07-28_15-28-52.png)`)*
+  ![Resolution Time Trends](Screenshot_2026-07-28_15-28-52.png)
+  
 
 ---
 
