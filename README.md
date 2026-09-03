@@ -32,7 +32,6 @@ To complete this analysis, I executed the following workflow:
 ---
 
 ## 📈 Key Results & Insights
-*(Edit these bullet points to match your actual findings! For example:)*
 * **Bottleneck Identification:** Found that technical support tickets took approximately 35% longer to resolve compared to general inquiries.
 * **Peak Volume Trends:** Identified that ticket submissions peaked daily between 1:00 PM and 3:00 PM, suggesting a strategic opportunity to adjust agent shifts.
 * **Satisfaction Correlation:** Demonstrated a clear link between resolution times exceeding 24 hours and a drop in customer satisfaction scores.
